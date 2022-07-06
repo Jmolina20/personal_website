@@ -16,7 +16,7 @@ ReactDOM.render(
   </div>
   
   <div id="menu">Buttons go here, like
-    <a href="https://media.giphy.com/media/3oEjHAUOqG3lSS0f1C/giphy.gif"> Github accomplishments</a>
+    <a href="https://github.com/Jmolina20"> Github repo</a>
     <a>Games, like "The last pineapple" </a>
     <a>Blog </a>
     <a>Per scholas projects</a>
@@ -26,6 +26,8 @@ ReactDOM.render(
       past projects and games I've developed.
     </p>
   
+
+
   <div id="resume">
 
     <ul>Skills:
