@@ -14,8 +14,8 @@ export default function App(){
                 <Route path="/" element={<Layout />}></Route>
                 <Route index element={<Home />}></Route>
                 <Route path="./pages/blog" element={<Blog />}></Route>    
-                <Route path="./pages/games" element={<Games/>}>
-                <Route path="./pages/per_scholas_projects" element={<Projects />}>
+                <Route path="./pages/games" element={<Games/>}></Route>
+                <Route path="./pages/per_scholas_projects" element={<Projects />}></Route>
             </Routes>
         </BrowserRouter>
     );

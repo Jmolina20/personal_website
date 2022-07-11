@@ -7,3 +7,5 @@ import React from "react";
 //nyc complaints app
 // interactive todo app
 //online tardis representation??
+//should probably make another subfolder for projects and have this be the 
+//router to sift and connect through those projects
